@@ -1,0 +1,91 @@
+{
+  "language": "भाषा",
+  "title_crop_yield": "फसल उत्पादन की भविष्यवाणी करें",
+  "state_placeholder": "राज्य का नाम दर्ज करें",
+  "district_placeholder": "जिले का नाम दर्ज करें",
+  "year_placeholder": "फसल वर्ष दर्ज करें",
+  "season_placeholder": "मौसम दर्ज करें (जैसे खरीफ, रबी)",
+  "crop_placeholder": "फसल का प्रकार दर्ज करें (जैसे चावल, गेहूं)",
+  "area_placeholder": "क्षेत्र (हेक्टेयर में) दर्ज करें",
+  "predict_button_crop_yield": "फसल उत्पादन की भविष्यवाणी करें",
+  "loading": "लोड हो रहा है...",
+  "prediction": "अनुमानित फसल उत्पादन: {{yield}} किग्रा/हेक्टेयर",
+
+  "upload_title": "पहचान के लिए अपनी छवि अपलोड करें",
+  "upload_subtitle": "बीमारियों या कीटों का पता लगाने के लिए फसल की छवि चुनें।",
+  "select_image": "छवि चुनें",
+  "get_results": "परिणाम प्राप्त करें",
+  "uploaded_image": "अपलोड की गई छवि",
+  "no_image": "अभी तक कोई छवि अपलोड नहीं की गई है।",
+
+  "disease_prediction": "छवि से रोग की भविष्यवाणी",
+  "pest_prediction": "पहचाने गए कीट",
+  "ai_explanation": "AI से स्पष्टीकरण",
+  "error_fetching": "पहचान परिणाम लाने में त्रुटि।",
+  "unexpected_error": "एक अप्रत्याशित त्रुटि हुई।",
+  "no_ai_response": "AI से कोई उत्तर नहीं।",
+  "ai_error": "स्पष्टीकरण लाने में त्रुटि।",
+
+  "title_crop_recommendation": "उगाने के लिए सबसे अच्छी फसल की भविष्यवाणी करें",
+  "nitrogen_placeholder": "नाइट्रोजन मान दर्ज करें",
+  "phosphorus_placeholder": "फॉस्फोरस मान दर्ज करें",
+  "potassium_placeholder": "पोटैशियम मान दर्ज करें",
+  "temperature_placeholder": "तापमान दर्ज करें (°C)",
+  "humidity_placeholder": "नमी (%) दर्ज करें",
+  "ph_placeholder": "pH मान (0-14) दर्ज करें",
+  "rainfall_placeholder": "वर्षा दर्ज करें (मिमी)",
+  "predict_button_crop_recommendation": "फसल की सिफारिश प्राप्त करें",
+  "predicted_crop": "अनुमानित फसल",
+"farmers_help": "किसानों की सहायता केंद्र",
+  "farmwise": "FarmWise.ai",
+  "farmers_voice": "#हमकिसानोंकीआवाज",
+  "features_explored": "विशेषताएँ खोजें",
+  "features_subtitle": "हमारी नवीन सुविधाओं को देखें जो किसानों की मदद कर सकती हैं!",
+  "crop_recommendation_title": "फसल सिफारिश",
+  "crop_recommendation_desc": "अपने मिट्टी के प्रकार, जलवायु और संसाधनों के आधार पर व्यक्तिगत फसल सिफारिश प्राप्त करें।",
+  
+  "crop_disease_title": "फसल रोग पहचान",
+  "crop_disease_desc": "हमारे एआई-संचालित फसल रोग पहचान उपकरण से फसलों के रोगों की जल्द पहचान करें।",
+  
+  "crop_yield_title": "फसल उपज भविष्यवाणी",
+  "crop_yield_desc": "कृषि रणनीतियों को अनुकूलित करने और उत्पादकता बढ़ाने के लिए फसल की उपज का सटीक पूर्वानुमान लगाएं।",
+    "Time": "समय",
+    "Temperature": "तापमान",
+    "Description": "विवरण",
+    "Humidity": "नमी",
+    "Wind": "हवा",
+  
+  "home": "होम",
+  "crop_recommendation": "फसल सिफारिश",
+  "crop_disease": "फसल रोग भविष्यवाणी",
+  "crop_yield": "फसल उपज भविष्यवाणी",
+  "pest_detection": "कीट पहचान",
+  "pest_detection_desc": "एआई-संचालित कीट पहचान से अपनी फसल में हानिकारक कीटों का पता लगाएं।",
+  "footer": {
+    "slogan": "#हम किसान की आवाज़ हैं",
+    "description": "FarmWise किसानों को अत्याधुनिक AI तकनीक से सशक्त बनाने के लिए समर्पित है। हम फसल प्रबंधन को अनुकूलित करने, उत्पादकता बढ़ाने और सतत कृषि प्रथाओं को सुनिश्चित करने के लिए नवीन उपकरण प्रदान करते हैं।",
+    "features": "विशेषताएँ खोजें",
+    "crop_recommendation": {
+      "title": "फसल सिफारिश",
+      "description": "आपकी मिट्टी, जलवायु और संसाधनों के आधार पर व्यक्तिगत फसल सिफारिशें प्राप्त करें।"
+    },
+    "crop_disease": {
+      "title": "फसल रोग पहचान",
+      "description": "हमारे AI-संचालित उपकरण से फसल रोगों की शीघ्र पहचान करें।"
+    },
+    "crop_yield": {
+      "title": "फसल उपज भविष्यवाणी",
+      "description": "खेती रणनीतियों को अनुकूलित करने और उत्पादकता बढ़ाने के लिए फसल उपज का सटीक पूर्वानुमान लगाएं।"
+    },
+    "pest_detection": {
+      "title": "कीट पहचान",
+      "description": "अपने फसलों की सुरक्षा के लिए प्रभावी रूप से कीटों की पहचान और प्रबंधन करें।"
+    },
+    "contact": "संपर्क करें",
+    "reach_out": "अधिक सहायता के लिए हमसे संपर्क करें:",
+    "whatsapp": "व्हाट्सएप",
+    "email": "ईमेल",
+    "instagram": "इंस्टाग्राम",
+    "rights": "FarmWise.ai. सभी अधिकार सुरक्षित।"
+  }
+}

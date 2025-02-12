@@ -1,0 +1,70 @@
+/* Footer CSS */
+
+  .py-10 {
+    padding-top: 2.5rem; /* 40px */
+    padding-bottom: 2.5rem; /* 40px */
+  }
+  
+  .text-white {
+    color: white;
+  }
+  
+  .text-lg {
+    font-size: 1.125rem; /* 18px */
+  }
+  
+  .text-xl {
+    font-size: 1.25rem; /* 20px */
+  }
+  
+  .text-sm {
+    font-size: 0.875rem; /* 14px */
+  }
+  
+  .font-bold {
+    font-weight: bold;
+  }
+  
+  .font-medium {
+    font-weight: 500;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .mb-6 {
+    margin-bottom: 1.5rem; /* 24px */
+  }
+  
+  .mt-2 {
+    margin-top: 0.5rem; /* 8px */
+  }
+  
+  .pt-4 {
+    padding-top: 1rem; /* 16px */
+  }
+  
+  .mt-6 {
+    margin-top: 1.5rem; /* 24px */
+  }
+  
+  .border-t {
+    border-top: 1px solid;
+  }
+  
+  .border-white {
+    border-color: white;
+  }
+  
+  .text-blue-300 {
+    color: #93c5fd; /* Light blue */
+  }
+  
+  .underline {
+    text-decoration: underline;
+  }
+  
+  .ml-1 {
+    margin-left: 0.25rem; /* 4px */
+  }

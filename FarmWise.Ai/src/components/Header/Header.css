@@ -1,0 +1,126 @@
+/* Header container */
+.header-container {
+    background-color: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 2px 0;
+    border-bottom: 2px solid #219653;
+   
+  }
+  
+  /* Logo container */
+  .logoWeb {
+    width:7rem;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .logoWeb:hover {
+    transform: scale(1.1);
+  }
+  
+  /* Text logo */
+  h3 {
+    font-family: 'Roboto', sans-serif;
+    color: #219653;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+  }
+  
+  /* Navigation list */
+  .nav-links {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  /* Navigation item styling */
+  .nav-item {
+    font-size: 16px;
+    font-weight: 600;
+    color: #219653;
+    cursor: pointer;
+    padding: 10px;
+    transition: color 0.3s ease, transform 0.3s ease;
+    border-radius: 4px;
+  }
+ /* Style the dropdown */
+/* Dropdown Wrapper */
+.dropdown-container {
+  position: relative;
+  display: inline-block;
+}
+
+/* Styled Select Dropdown */
+.custom-select {
+  appearance: none; /* Remove default styling */
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-color: white;
+  border: 2px solid #219653;
+  color: #219653;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+  width: 100px; /* Adjust width as needed */
+}
+
+/* Custom Dropdown Arrow */
+.dropdown-container::after {
+  content: "▼"; /* Unicode for down arrow */
+  font-size: 14px;
+  color: #219653;
+  position: absolute;
+  top: 50%;
+  right: 15px;
+  transform: translateY(-50%);
+  pointer-events: none; /* Prevent click interference */
+}
+
+/* On hover */
+.custom-select:hover {
+  background-color: #e6f4ea;
+}
+
+/* Style options */
+.custom-select option {
+  background-color: white;
+  color: #219653;
+}
+
+
+  .nav-item:hover {
+    color: white;
+    background-color: #219653;
+    transform: scale(1.05);
+  }
+  
+  .nav-item:active {
+    color: #145d3d;
+    transform: scale(1);
+  }
+  
+  /* Responsive design for mobile */
+  @media (max-width: 768px) {
+    .header-container {
+      padding: 10px;
+    }
+  
+    .flex {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .nav-links {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .nav-item {
+      margin: 5px 0;
+    }
+  }
+  

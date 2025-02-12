@@ -1,0 +1,97 @@
+{
+  "language": "Language",
+
+  "title_crop_yield": "Predict the Crop Yield",
+  "state_placeholder": "Enter State Name",
+  "district_placeholder": "Enter District Name",
+  "year_placeholder": "Enter Crop Year",
+  "season_placeholder": "Enter Season (e.g., Kharif, Rabi)",
+  "crop_placeholder": "Enter Crop Type (e.g., Rice, Wheat)",
+  "area_placeholder": "Enter Area (hectares)",
+  "predict_button_crop_yield": "Get Crop Yield Prediction",
+  "loading": "Loading...",
+  "prediction": "Predicted Crop Yield: {{yield}} kg/ha",
+
+  "upload_title": "Upload Your Image for Detection",
+  "upload_subtitle": "Select an image of the crop to detect diseases or pests.",
+  "select_image": "Select Image",
+  "get_results": "Get Results",
+  "uploaded_image": "Uploaded Image",
+  "no_image": "No image uploaded yet.",
+
+  "disease_prediction": "Disease Prediction from Image",
+  "pest_prediction": "Detected Pests",
+  "ai_explanation": "Explanation from AI",
+  "error_fetching": "Error fetching detection results.",
+  "unexpected_error": "An unexpected error occurred.",
+  "no_ai_response": "No response from AI.",
+  "ai_error": "Error fetching explanation.",
+
+  "title_crop_recommendation": "Predict the Best Crop to Plant",
+  "nitrogen_placeholder": "Enter Nitrogen value",
+  "phosphorus_placeholder": "Enter Phosphorus value",
+  "potassium_placeholder": "Enter Potassium value",
+  "temperature_placeholder": "Enter Temperature (°C)",
+  "humidity_placeholder": "Enter Humidity (%)",
+  "ph_placeholder": "Enter pH value (0-14)",
+  "rainfall_placeholder": "Enter Rainfall (mm)",
+  "predict_button_crop_recommendation": "Get Crop Recommendation",
+  "predicted_crop": "Crop Predicted",
+
+  "farmers_help": "Farmers' Help Center",
+  "farmwise": "FarmWise.ai",
+  "farmers_voice": "#WeAreFarmersVoice",
+  "features_explored": "FEATURES EXPLORED",
+  "features_subtitle": "Take a look at our innovative features that can help farmers!",
+
+  "crop_recommendation_title": "Crop Recommendation",
+  "crop_recommendation_desc": "Get personalized crop recommendations based on your soil type, climate, and resources.",
+  
+  "crop_disease_title": "Crop Disease Detection",
+  "crop_disease_desc": "Identify crop diseases early with our AI-driven crop disease detection tool.",
+  
+  "crop_yield_title": "Crop Yield Prediction",
+  "crop_yield_desc": "Forecast crop yields accurately to optimize farming strategies and increase productivity.",
+
+  "home": "Home",
+  "crop_recommendation": "Crop Recommendation",
+  "crop_disease": "Crop Disease Prediction",
+  "crop_yield": "Crop Yield Prediction",
+  "pest_detection": "Pest Detection",
+  "pest_detection_desc": "Detect harmful pests in your crops using AI-powered pest detection.",
+    "Time": "Time",
+    "Temperature": "Temperature",
+    "Description": "Description",
+    "Humidity": "Humidity",
+    "Wind": "Wind",
+    "recommended_fertilizers":"Recommended Fertilizers",
+    "footer": {
+      "slogan": "#WeAreFarmers'Voice",
+      "description": "FarmWise is dedicated to empowering farmers with cutting-edge AI technology. We provide innovative tools to optimize crop management, enhance productivity, and ensure sustainable farming practices.",
+      "features": "FEATURES EXPLORED",
+      "crop_recommendation": {
+        "title": "Crop Recommendation",
+        "description": "Get personalized crop recommendations based on your soil type, climate, and resources."
+      },
+      "crop_disease": {
+        "title": "Crop Disease Detection",
+        "description": "Identify crop diseases early with our AI-driven crop disease detection tool."
+      },
+      "crop_yield": {
+        "title": "Crop Yield Prediction",
+        "description": "Forecast crop yields accurately to optimize farming strategies and increase productivity."
+      },
+      "pest_detection": {
+        "title": "Pest Detection",
+        "description": "Detect and manage pests effectively to protect your crops."
+      },
+      "contact": "Contact Us",
+      "reach_out": "For more help, reach out to us:",
+      "whatsapp": "WhatsApp",
+      "email": "Email",
+      "instagram": "Instagram",
+      "rights": "FarmWise.ai. All rights reserved."
+    
+  }
+  
+}
