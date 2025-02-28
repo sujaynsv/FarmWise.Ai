@@ -58,7 +58,7 @@ FarmWise.AI is an *AI-powered smart farming platform* designed to help *smallhol
 ### *🌍 Multilingual Support (Language Switching)*  
 - Farmers can *switch languages instantly* for better understanding.  
 - Uses *Google Cloud Translation API* to support *regional languages*.  
-- Enables *better accessibility* for farmers worldwide.  
+- Enables *better accessibility* for the farmers worldwide.  
 
 ---
 
